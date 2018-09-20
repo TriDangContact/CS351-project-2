@@ -1,5 +1,5 @@
-# CS351-project-2
+# Operating System: Adding Delete/Undelete Feature
 
-This project adds an Undelete feature to the operating system called MikeOS. Also adds a command line argument "DIRD" to show deleted files.
+This project adds the Delete/Undelete feature to the operating system called MikeOS. Also adds a command line argument "DIRD" to show deleted files.
  - Build by typing ./build-linux.sh into terminal.
  - Test by typing ./test-linux.sh into terminal.
